@@ -95,6 +95,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 | 이동영 | [dylee27.github.io](https://dylee27.github.io) |
 | 정상섭 | [seobprise.github.io](https://seobprise.github.io) |
 | 이상준 | [goaxhf02-sudo.github.io](https://goaxhf02-sudo.github.io) |
+| 홍목연 | [editha0630.github.io](https://editha0630.github.io) |
 
 ## Team 13
 
